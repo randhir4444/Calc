@@ -21,8 +21,8 @@ for(item of buttons)
             screenValue = "";
             screen.value = screenValue;
         }
-        else if (buttonText == 'Love') {
-            screenValue = "Lub U Bby";
+        else if (buttonText == 'InFo') {
+            screenValue = "Randhir's Creation";
             screen.value = screenValue;
         }
         else {
